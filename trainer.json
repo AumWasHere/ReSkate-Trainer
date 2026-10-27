@@ -1,0 +1,341 @@
+{
+  "active": [
+    "Hardcore",
+    "Realistic"
+  ],
+  "folds": {
+    "section-bails": false,
+    "section-everything": true,
+    "section-foot": true,
+    "section-game": false,
+    "section-pop": false,
+    "section-pumping": true,
+    "section-speed": false,
+    "section-transition": false,
+    "section-tricklining": false
+  },
+  "maps": {},
+  "options": {
+    "auto_return": false,
+    "boneless_height": 0.699999988079071,
+    "flip_advanced": false,
+    "flip_flick": false,
+    "flip_pop": false,
+    "flip_speed": 1.100000023841858,
+    "gravity": 1.0,
+    "gravity_animation_timing": 1.0,
+    "gravity_landing": 1.0,
+    "gravity_landing_own": false,
+    "grind_push": 0.0,
+    "grind_range": 0.0,
+    "grind_side": 1.0,
+    "hippy_height": 0.699999988079071,
+    "hud": false,
+    "hud_jump": false,
+    "manual_height": 1.0,
+    "nocomply_height": 0.6000000238418579,
+    "offboard_height": 0.800000011920929,
+    "pad_shortcuts": false,
+    "pump_power": 0.800000011920929,
+    "return_delay": 2.0,
+    "revert_boost": 0.0,
+    "slot": 0,
+    "transition.carry": 0.0,
+    "transition.drop": 1.0,
+    "transition.lean": 0.0,
+    "transition.lockout": 0.0,
+    "transition.plant": 0.0,
+    "transition.spine": false,
+    "transition.unstick": 0.0,
+    "underflip_speed": 1.0,
+    "underflip_split": false
+  },
+  "presets": {},
+  "revert": {
+    "auto": 1.5,
+    "bend": 2.0,
+    "cooldown": 0.5,
+    "full": 4.0,
+    "max_speed": 40.0,
+    "min_air": 0.25,
+    "rules": 2,
+    "slip": 90.0,
+    "spin": 90.0,
+    "twist": 40.0
+  },
+  "schema": 1,
+  "values": {
+    "jump.basejumpheight": {
+      "frozen": true,
+      "value": 0.5709
+    },
+    "jump.maxjumpheight": {
+      "frozen": true,
+      "value": 0.9384
+    },
+    "jump.minjumpheight": {
+      "frozen": true,
+      "value": 0.07650684845613359
+    },
+    "locomotion.sprintspeed": {
+      "frozen": true,
+      "value": 5.5249999999999995
+    },
+    "locomotion.sprintspeedboost": {
+      "frozen": true,
+      "value": 6.0
+    },
+    "onboard_powerslide.frictionscalar_slide": {
+      "frozen": true,
+      "value": 1.8
+    },
+    "physicsairstates.maxspinspeed": {
+      "frozen": true,
+      "value": 450.0
+    },
+    "physicsbodyspin.maxdeltavstime x": {
+      "frozen": true,
+      "value": 0.65
+    },
+    "physicsbodyspin.maxdeltavstimeeasy x": {
+      "frozen": true,
+      "value": 0.65
+    },
+    "physicsbodyspin.pbsvst_easy x": {
+      "frozen": true,
+      "value": 0.65
+    },
+    "physicsbodyspin.propbodyspinvstime x": {
+      "frozen": true,
+      "value": 0.65
+    },
+    "physicsgrind.commonfrictionscalar": {
+      "frozen": true,
+      "value": 0.7
+    },
+    "physicsgrind.curbfrictionscalar": {
+      "frozen": true,
+      "value": 2.4699999690055847
+    },
+    "physicsgrind.grind_tipslide_minangletoprimitive": {
+      "frozen": true,
+      "value": 10.0
+    },
+    "physicsjump.maxheightvsspeed x": {
+      "frozen": true,
+      "value": 0.75
+    },
+    "physicsjump.minheightvsspeed x": {
+      "frozen": true,
+      "value": 0.8
+    },
+    "physicsmode.grindjumpboardslidemax": {
+      "frozen": true,
+      "value": 1.6368
+    },
+    "physicsmode.grindjumpboardslidemin": {
+      "frozen": true,
+      "value": 1.4136
+    },
+    "physicsmode.grindjumpcommonmax": {
+      "frozen": true,
+      "value": 1.7112
+    },
+    "physicsmode.grindjumpcommonmin": {
+      "frozen": true,
+      "value": 1.3392
+    },
+    "physicsmode.grindjumptipslidemax": {
+      "frozen": true,
+      "value": 1.5624
+    },
+    "physicsmode.grindjumptipslidemin": {
+      "frozen": true,
+      "value": 1.302
+    },
+    "physicsmode.grindlockdist": {
+      "frozen": true,
+      "value": 0.4
+    },
+    "physicsmode.jumpmaxheight": {
+      "frozen": true,
+      "value": 1.0868
+    },
+    "physicsmode.jumpminheight": {
+      "frozen": true,
+      "value": 0.9936
+    },
+    "physicsmode.jumpminheightmanual": {
+      "frozen": true,
+      "value": 0.9568
+    },
+    "physicsmode.makesurfacessmooth": {
+      "frozen": false,
+      "value": 0.0
+    },
+    "physicsmode.maxautobodyspinspeed": {
+      "frozen": true,
+      "value": 4.0
+    },
+    "physicsmode.speedwobblestartspeed": {
+      "frozen": true,
+      "value": 9.5
+    },
+    "physicsmode.wipeout_groundhighxzacceleration": {
+      "frozen": true,
+      "value": 7.35
+    },
+    "physicsmode.wipeout_groundhighyacceleration": {
+      "frozen": true,
+      "value": 42.0
+    },
+    "physicsmode.wipeout_groundxzacceleration": {
+      "frozen": true,
+      "value": 2.8
+    },
+    "physicsonboardjumptuning.jumpadjustvelocityboostlimitgrind": {
+      "frozen": true,
+      "value": 5.0
+    },
+    "physicspush.maxpushablespeed": {
+      "frozen": true,
+      "value": 7.5
+    },
+    "physicspush.maxspeedforautopush": {
+      "frozen": true,
+      "value": 6.5
+    },
+    "physicsreckoning.flipscalar": {
+      "frozen": true,
+      "value": 0.7
+    },
+    "physicstrajectory.grindlandingmaxangle": {
+      "frozen": true,
+      "value": 10.0
+    },
+    "physicstrajectory.grindlandingvelscalar": {
+      "frozen": true,
+      "value": 0.10000000149011612
+    },
+    "physicswipeout.wipeout_airmaxspeedintocollisionneargrind": {
+      "frozen": true,
+      "value": 5.6
+    },
+    "physicswipeout.wipeout_airmaxspeedintoground": {
+      "frozen": true,
+      "value": 7.0
+    },
+    "physicswipeout.wipeout_airmaxspeedintostairs": {
+      "frozen": true,
+      "value": 3.5
+    },
+    "physicswipeout.wipeout_airskeletonmaxdisp": {
+      "frozen": true,
+      "value": 0.07000000104308128
+    },
+    "physicswipeout.wipeout_airtrick_maxxzcontactforce": {
+      "frozen": true,
+      "value": 2450.0
+    },
+    "physicswipeout.wipeout_airtrick_maxxzrelativevel": {
+      "frozen": true,
+      "value": 2.5
+    },
+    "physicswipeout.wipeout_airtrick_maxycontactforce": {
+      "frozen": true,
+      "value": 1400.0
+    },
+    "physicswipeout.wipeout_airtrick_maxyrelativevel": {
+      "frozen": true,
+      "value": 1.6
+    },
+    "physicswipeout.wipeout_airxzacceleration": {
+      "frozen": true,
+      "value": 2.1699999332427975
+    },
+    "physicswipeout.wipeout_airyacceleration": {
+      "frozen": true,
+      "value": 42.0
+    },
+    "physicswipeout.wipeout_bonelessxzacceleration": {
+      "frozen": true,
+      "value": 4.199999999999999
+    },
+    "physicswipeout.wipeout_bonelessyacceleration": {
+      "frozen": true,
+      "value": 10.5
+    },
+    "physicswipeout.wipeout_grindskeletonmaxdisp": {
+      "frozen": true,
+      "value": 1.4
+    },
+    "physicswipeout.wipeout_groundskeletonmaxdisp": {
+      "frozen": true,
+      "value": 0.2800000041723251
+    },
+    "physicswipeout.wipeout_groundyacceleration": {
+      "frozen": true,
+      "value": 42.0
+    },
+    "physicswipeout.wipeout_ob_air_skelmaxdisp": {
+      "frozen": true,
+      "value": 0.21000000834465027
+    },
+    "physicswipeout.wipeout_ob_skeletonmaxdisp": {
+      "frozen": true,
+      "value": 0.21000000834465027
+    },
+    "push.maxpushspeedlight": {
+      "frozen": true,
+      "value": 3.8
+    },
+    "push.maxpushspeedmedium": {
+      "frozen": true,
+      "value": 6.5
+    },
+    "push.maxpushspeedstrong": {
+      "frozen": true,
+      "value": 7.5
+    },
+    "push.minmediumpushoverridespeed": {
+      "frozen": true,
+      "value": 5.5
+    },
+    "wipeoutfallspeed.highhorizontalspeed_offboardlanding": {
+      "frozen": true,
+      "value": 10.5
+    },
+    "wipeoutfallspeed.highmaxspeed_grind": {
+      "frozen": true,
+      "value": 7.2
+    },
+    "wipeoutfallspeed.highmaxspeed_ground": {
+      "frozen": true,
+      "value": 9.0
+    },
+    "wipeoutfallspeed.lowhorizontalspeed_offboardlanding": {
+      "frozen": true,
+      "value": 7.0
+    },
+    "wipeoutfallspeed.lowmaxspeed_grind": {
+      "frozen": true,
+      "value": 4.2
+    },
+    "wipeoutfallspeed.lowmaxspeed_ground": {
+      "frozen": true,
+      "value": 5.6
+    },
+    "wipeoutfallspeed.normalhorizontalspeed_offboardlanding": {
+      "frozen": true,
+      "value": 8.399999999999999
+    },
+    "wipeoutfallspeed.normalmaxspeed_grind": {
+      "frozen": true,
+      "value": 5.2
+    },
+    "wipeoutfallspeed.normalmaxspeed_ground": {
+      "frozen": true,
+      "value": 7.0
+    }
+  }
+}
