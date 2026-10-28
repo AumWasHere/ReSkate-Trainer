@@ -41,7 +41,7 @@ A custom physics trainer preset for ReSkate and clone my style at **Skater XL**.
 
 ## Installation
 1. Place the `trainer.json` file `%localappdata%\ReSkate` then move or copy `trainer.json` into "trainer" folder.
-2. Don't forget to backup your file or rename your original file (trainer.json.bak)
+2. Don't forget to backup your file or rename your original file (`trainer.json.bak`)
 3. Launch the game and load the preset from the trainer menu.
 
 ## Notes
