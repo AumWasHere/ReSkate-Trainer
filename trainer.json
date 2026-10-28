@@ -21,7 +21,7 @@
     "flip_advanced": false,
     "flip_flick": false,
     "flip_pop": false,
-    "flip_speed": 1.100000023841858,
+    "flip_speed": 1.0,
     "gravity": 1.0,
     "gravity_animation_timing": 1.0,
     "gravity_landing": 1.0,
@@ -67,11 +67,11 @@
   "values": {
     "jump.basejumpheight": {
       "frozen": true,
-      "value": 0.5709
+      "value": 0.6826
     },
     "jump.maxjumpheight": {
       "frozen": true,
-      "value": 0.9384
+      "value": 1.122
     },
     "jump.minjumpheight": {
       "frozen": true,
@@ -159,15 +159,15 @@
     },
     "physicsmode.jumpmaxheight": {
       "frozen": true,
-      "value": 1.0868
+      "value": 1.2994
     },
     "physicsmode.jumpminheight": {
       "frozen": true,
-      "value": 0.9936
+      "value": 1.188
     },
     "physicsmode.jumpminheightmanual": {
       "frozen": true,
-      "value": 0.9568
+      "value": 1.144
     },
     "physicsmode.makesurfacessmooth": {
       "frozen": false,
