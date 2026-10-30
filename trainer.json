@@ -67,11 +67,11 @@
   "values": {
     "jump.basejumpheight": {
       "frozen": true,
-      "value": 0.6826
+      "value": 0.7322
     },
     "jump.maxjumpheight": {
       "frozen": true,
-      "value": 1.122
+      "value": 1.2036
     },
     "jump.minjumpheight": {
       "frozen": true,
@@ -159,15 +159,15 @@
     },
     "physicsmode.jumpmaxheight": {
       "frozen": true,
-      "value": 1.2994
+      "value": 1.3939
     },
     "physicsmode.jumpminheight": {
       "frozen": true,
-      "value": 1.188
+      "value": 1.2744
     },
     "physicsmode.jumpminheightmanual": {
       "frozen": true,
-      "value": 1.144
+      "value": 1.2272
     },
     "physicsmode.makesurfacessmooth": {
       "frozen": false,
