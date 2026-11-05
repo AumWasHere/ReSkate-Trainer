@@ -16,10 +16,12 @@
   },
   "maps": {},
   "options": {
+    "air_reach_fixed": true,
     "auto_return": false,
     "boneless_height": 0.699999988079071,
     "flip_advanced": false,
     "flip_flick": false,
+    "flip_landing_limit": true,
     "flip_pop": false,
     "flip_speed": 1.0,
     "gravity": 1.0,
@@ -111,7 +113,7 @@
     },
     "physicsgrind.commonfrictionscalar": {
       "frozen": true,
-      "value": 0.7
+      "value": 0.85
     },
     "physicsgrind.curbfrictionscalar": {
       "frozen": true,
@@ -199,7 +201,7 @@
     },
     "physicspush.maxpushablespeed": {
       "frozen": true,
-      "value": 7.5
+      "value": 6.5
     },
     "physicspush.maxspeedforautopush": {
       "frozen": true,
@@ -291,11 +293,11 @@
     },
     "push.maxpushspeedmedium": {
       "frozen": true,
-      "value": 6.5
+      "value": 6.0
     },
     "push.maxpushspeedstrong": {
       "frozen": true,
-      "value": 7.5
+      "value": 6.5
     },
     "push.minmediumpushoverridespeed": {
       "frozen": true,
